@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Step into a world of endless possibilities at Rumarket Store, where your shopping experience transcends the ordinary","photo":"https://iili.io/HDbMdnp.webp"},
+  {"title":"title2 ser","desc":"Situated in the heart of the city, Rumarket is more than just a store – it's a destination that offers a captivating blend of luxury, convenience","photo":"https://iili.io/HDbMHtR.webp"},
+  {"title":"title3 ser","desc":" and a diverse array of products that cater to your every need and desire.","photo":"https://iili.io/HDbM2MN.webp"},
+  {"title":"title4 ser","desc":"As you approach Rumarket, you'll be drawn in by its elegant and modern exterior, featuring sleek lines and expansive glass windows that offer a sneak peek into the wonders that await within","photo":"https://iili.io/HDbM9wv.webp"},
+  {"title":"title5 ser","desc":"Upon entering, you'll be enveloped in an inviting atmosphere that effortlessly combines sophistication with warmth","photo":"https://iili.io/HDbMKFt.webp"},
+  {"title":"title6 ser","desc":"Ambient lighting, tasteful decor, and carefully curated displays create an environment that exudes both comfort and class.","photo":"https://iili.io/HDbMC9s.webp"},
+  {"title":"title7 ser","desc":"Rumarket takes pride in offering an extensive selection of products that span various categories","photo":"https://iili.io/HDbMfcX.webp"},
+  {"title":"title8 ser","desc":"From high-end fashion apparel to cutting-edge electronics, from artisanal home decor to gourmet food items sourced from around the globe – there's something to captivate every shopper's interest","photo":"https://iili.io/HDbMqSn.webp"}
    ]
  
 }
