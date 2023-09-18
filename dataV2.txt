@@ -23,29 +23,35 @@
 "yandex_inter":"R-M-2847967-3",
 "yandex_native":"R-M-2847967-2",
 "yandex_reward":"R-M-2847967-4",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"",
 
+  
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
-
-"start_vpn":"no",
+"download_dialog_txt":"download text from server",
 "banner_network_choice":"yandex", 
 "interstisial_network_choice":"yandex", 
 "reward_network_choice":"yandex",
 "native_network_choice":"yandex"
   
-  
 
 },
- 
- "my_data":[
-  {"title":"title1 ser","desc":"Step into a world of endless possibilities at Rumarket Store, where your shopping experience transcends the ordinary","photo":"https://iili.io/HDbMdnp.webp"},
-  {"title":"title2 ser","desc":"Situated in the heart of the city, Rumarket is more than just a store – it's a destination that offers a captivating blend of luxury, convenience","photo":"https://iili.io/HDbMHtR.webp"},
-  {"title":"title3 ser","desc":" and a diverse array of products that cater to your every need and desire.","photo":"https://iili.io/HDbM2MN.webp"},
-  {"title":"title4 ser","desc":"As you approach Rumarket, you'll be drawn in by its elegant and modern exterior, featuring sleek lines and expansive glass windows that offer a sneak peek into the wonders that await within","photo":"https://iili.io/HDbM9wv.webp"},
-  {"title":"title5 ser","desc":"Upon entering, you'll be enveloped in an inviting atmosphere that effortlessly combines sophistication with warmth","photo":"https://iili.io/HDbMKFt.webp"},
-  {"title":"title6 ser","desc":"Ambient lighting, tasteful decor, and carefully curated displays create an environment that exudes both comfort and class.","photo":"https://iili.io/HDbMC9s.webp"},
-  {"title":"title7 ser","desc":"Rumarket takes pride in offering an extensive selection of products that span various categories","photo":"https://iili.io/HDbMfcX.webp"},
-  {"title":"title8 ser","desc":"From high-end fashion apparel to cutting-edge electronics, from artisanal home decor to gourmet food items sourced from around the globe – there's something to captivate every shopper's interest","photo":"https://iili.io/HDbMqSn.webp"}
+  "my_data":[
+  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
+   "photo1":"https://iili.io/Ht07B6b.webp"},
+  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
+  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
+  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
+  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
+  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
    ]
  
 }
-   
